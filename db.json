@@ -1,3 +1,5 @@
+{
+"events":[
 {"id": 1,
 "category": "concert",
 "title": "Tomorrowland",
@@ -33,4 +35,6 @@
 "date": "July 04 2021",
 "time": "09:00",
 "imagePath": "graspop.png"
+}
+]
 }
