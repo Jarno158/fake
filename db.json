@@ -9,14 +9,12 @@
       "date": "August 8, 2021",
       "time": "09:00",
       "imagePath":"tomorrowland.png",
-      "locatie": [
-        {
+      "locatie": {
           "parking": true,
           "foodshops": true,
           "disabled_people": true,
           "camping": true
         }
-      ]
     },
     {
       "id": 2,
@@ -27,14 +25,12 @@
       "date": "July 4, 2021",
       "time": "09:00",
       "imagePath":"rockwerchter.png",
-      "locatie": [
-        {
+      "locatie": {
           "parking": false,
           "foodshops": true,
           "disabled_people": false,
           "camping": true
         }
-      ]
     },
     {
       "id": 3,
@@ -45,14 +41,12 @@
       "date": "July 22 2021",
       "time": "09:00",
       "imagePath": "pukkelpop.png",
-      "locatie": [
-        {
+      "locatie": {
           "parking": true,
           "foodshops": true,
           "disabled_people": true,
           "camping": true
         }
-      ]
     },
     {
       "id":4,
@@ -63,14 +57,12 @@
       "date": "July 04 2021",
       "time": "09:00",
       "imagePath": "graspop.png",
-      "locatie": [
-        {
+      "locatie": {
           "parking": true,
           "foodshops": true,
           "disabled_people": true,
           "camping": true
         }
-      ]
     }
   ]
 }
