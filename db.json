@@ -13,7 +13,7 @@
         {
           "parking": true,
           "foodshops": true,
-          "disbaled_people": true,
+          "disabled_people": true,
           "camping": true
         }
       ]
@@ -31,7 +31,7 @@
         {
           "parking": false,
           "foodshops": true,
-          "disbaled_people": false,
+          "disabled_people": false,
           "camping": true
         }
       ]
@@ -49,7 +49,7 @@
         {
           "parking": true,
           "foodshops": true,
-          "disbaled_people": true,
+          "disabled_people": true,
           "camping": true
         }
       ]
@@ -67,7 +67,7 @@
         {
           "parking": true,
           "foodshops": true,
-          "disbaled_people": true,
+          "disabled_people": true,
           "camping": true
         }
       ]
